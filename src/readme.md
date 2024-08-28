@@ -1,2 +1,3 @@
-Kaizen es una palabra japonesa que se compone de dos sinogramas de escritura japonesa que significan “bueno” y “cambio”, y actualmente, Kaizen se refiere a un sistema de mejora continua en el que las pequeñas, pero constantes mejoras, acumulan tras de sí grandes beneficios a largo plazo. 
-Hay otras metodologías y filosofías (famosas en el mundo de los negocios) que impulsan la innovación y la obtención de mejores resultados, sin embargo, el Kaizen se diferencía porque se enfoca en los grandes beneficios que tienen las pequeñas acciones a largo plazo.
+¡Hola compañero de programación! 
+En este archivo MyST[1] (una variante de Markdown[2]),
+ te explicaré paso a paso cómo realizar un ron mit y push en Git desde Visual Studio Code[3] (VSCode) en un proyecto previamente creado en GitLab. ¡Com encemos!
